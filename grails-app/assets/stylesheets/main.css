@@ -571,3 +571,18 @@ a.skip {
 #map {
     height: 800px;
 }
+
+#toolbar {
+    font-family: monospace;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    height: 40px;
+}
+
+#filter {
+    text-align: center;
+    height: 40px;
+    background-color: grey;
+}
